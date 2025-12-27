@@ -46,3 +46,11 @@ python data.py
 ## Data Source
 
 The script expects NYC Yellow Taxi trip data in Parquet format. Data can be obtained from the NYC Taxi and Limousine Commission website.
+
+## License
+
+MIT License
+
+## Author
+
+Seonwoo Kang (sunwoo99999@gmail.com)
